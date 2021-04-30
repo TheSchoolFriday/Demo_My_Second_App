@@ -10,5 +10,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // RP Helpdesk thank you, also thank you Android Studio for eating my RAM Like
+        // A buffet restaurant
     }
 }
